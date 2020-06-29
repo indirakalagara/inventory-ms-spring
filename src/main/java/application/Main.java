@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("In SpringBootApplication Main ");
+		System.out.println("In SpringBootApplication Main - test ");
 		SpringApplication.run(Main.class, args);
 	}
 
